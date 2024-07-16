@@ -1,6 +1,11 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
+
 gemspec
 
-gem 'kramdown-parser-gfm'
+gem 'tzinfo-data'
 
-gem 'bundler', '~> 2.0'
+group :test do
+  gem "html-proofer", "~> 5.0"
+end
