@@ -6,6 +6,8 @@ gemspec
 
 gem 'tzinfo-data'
 
+gem 'jekyll-toc'
+
 group :test do
   gem "html-proofer", "~> 5.0"
 end
