@@ -1,10 +1,10 @@
 [
   
   {
-    "title": "게시글 1번",
+    "title": "포트폴리오",
     "url": "/posts/%EC%B5%9C%EC%B4%88-%EA%B2%8C%EC%8B%9C%EA%B8%80/",
-    "categories": "메인 카테고리, 서브 카테고리",
-    "tags": "태그1, 태그2, 태그3",
+    "categories": "포트폴리오",
+    "tags": "SpringBoot, Java, MyBatis, JSP, JS, jQuery, BootStrap, Ajax, PostMan",
     "date": "2024-07-16 12:12:00 +0900",
     
 
@@ -13,8 +13,8 @@
 
 
     
-    "snippet": "111111111121111111111311111111411111111511111116111111117111111118111111119111111111011111111111111111112",
-    "content": "111111111121111111111311111111411111111511111116111111117111111118111111119111111111011111111111111111112"
+    "snippet": "Introduction안녕하세요.저는 신입 백엔드 개발자 박서인입니다.Skill프로그래밍 언어  Java  JavaScript  SQL프레임워크  SpringBoot  MyBatis라이브러리  jQuery  BootstrapProjects프로젝트 1: Trip Over  설명: 이 프로젝트는 웹 애플리케이션을 개발하는 프로젝트입니다.  기술: Java...",
+    "content": "Introduction안녕하세요.저는 신입 백엔드 개발자 박서인입니다.Skill프로그래밍 언어  Java  JavaScript  SQL프레임워크  SpringBoot  MyBatis라이브러리  jQuery  BootstrapProjects프로젝트 1: Trip Over  설명: 이 프로젝트는 웹 애플리케이션을 개발하는 프로젝트입니다.  기술: Java, SpringBoot, MyBatis프로젝트 2: EarBee  설명: 데이터 분석을 위한 툴을 개발한 프로젝트입니다.  기술: Java, SpringBoot, MyBatis6  jQuery  Bootstrap5  jQuery  Bootstrap4  jQuery  Bootstrap3  jQuery  Bootstrap2  jQuery  Bootstrap체크체크체크체크체크체크체크체크체크  완료6  jQuery  Bootstrap5  jQuery  Bootstrap4  jQuery  Bootstrap3  jQuery  Bootstrap2  jQuery  Bootstrap"
   }
   
 ]

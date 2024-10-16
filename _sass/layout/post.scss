@@ -38,6 +38,12 @@ header {
       }
     }
   }
+  h1 {
+    font-size: 4rem; /* 제목의 크기를 3rem으로 설정 */
+    font-weight: bold; /* 제목의 굵기를 설정 */
+    line-height: 1.2; /* 줄 높이 설정 (선택 사항) */
+    margin-top: 1.5rem; /* 제목 위쪽 여백 조정 (선택 사항) */
+  }
 
   h1 + .post-meta {
     margin-top: 1.5rem;

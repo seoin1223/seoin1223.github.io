@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>seoin</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-07-19T21:53:11+09:00</updated>
+  <updated>2024-09-08T05:23:08+09:00</updated>
   <author>
     <name>Bak Seoin</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,11 @@
 
   
   <entry>
-    <title>게시글 1번</title>
-    <link href="http://localhost:4000/posts/%EC%B5%9C%EC%B4%88-%EA%B2%8C%EC%8B%9C%EA%B8%80/" rel="alternate" type="text/html" title="게시글 1번" />
+    <title>포트폴리오</title>
+    <link href="http://localhost:4000/posts/%EC%B5%9C%EC%B4%88-%EA%B2%8C%EC%8B%9C%EA%B8%80/" rel="alternate" type="text/html" title="포트폴리오" />
     <published>2024-07-16T12:12:00+09:00</published>
   
-    <updated>2024-07-16T12:12:00+09:00</updated>
+    <updated>2024-07-19T21:55:34+09:00</updated>
   
     <id>http://localhost:4000/posts/%EC%B5%9C%EC%B4%88-%EA%B2%8C%EC%8B%9C%EA%B8%80/</id>
     <content src="http://localhost:4000/posts/%EC%B5%9C%EC%B4%88-%EA%B2%8C%EC%8B%9C%EA%B8%80/" />
@@ -34,35 +34,66 @@
 
   
     
-    <category term="메인 카테고리" />
-    
-    <category term="서브 카테고리" />
+    <category term="포트폴리오" />
     
   
 
-  <summary>1
-111111111
-2
-1111111111
-3
-11111111
-4
-11111111
-5
-1111111
+  <summary>Introduction
+
+안녕하세요.
+저는 신입 백엔드 개발자 
+박서인입니다.
+
+Skill
+
+프로그래밍 언어
+
+  Java
+  JavaScript
+  SQL
+
+
+프레임워크
+
+  SpringBoot
+  MyBatis
+
+
+라이브러리
+
+  jQuery
+  Bootstrap
+
+
+Projects
+
+프로젝트 1: Trip Over
+
+  설명: 이 프로젝트는 웹 애플리케이션을 개발하는 프로젝트입니다.
+  기술: Java, SpringBoot, MyBatis
+
+
+프로젝트 2: EarBee
+
+  설명: 데이터 분석을 위한 툴을 개발한 프로젝트입니다.
+  기술: Java, SpringBoot, MyBatis
+
+
 6
-11111111
-7
-11111111
-8
-11111111
-9
-11111111
-10
-11111111
-11
-11111111
-12</summary>
+
+  jQuery
+  Bootstrap
+
+
+5
+
+  jQuery
+  Bootstrap
+
+
+4
+
+  jQue...</summary>
 
   </entry>
 

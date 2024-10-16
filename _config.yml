@@ -224,3 +224,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll_toc:
+  min_heading_level: 1
+  max_heading_level: 5
